@@ -64,13 +64,60 @@
       "ongoing": false
     }
   ],
-  "highlights": [
+  "match_detail": [
     {
       "id": 101,
       "home_team_red_cards": "1",
       "away_team_red_cards": "0",
       "home_team_yellow_cards": "4",
-      "away_team_yellow_cards": "2",
+      "away_team_yellow_cards": "2"
+    },
+    {
+      "id": 102,
+      "home_team_red_cards": "0",
+      "away_team_red_cards": "0",
+      "home_team_yellow_cards": "2",
+      "away_team_yellow_cards": "3"
+    },
+    {
+      "id": 103,
+      "home_team_red_cards": "0",
+      "away_team_red_cards": "0",
+      "home_team_yellow_cards": "8",
+      "away_team_yellow_cards": "4"
+    },
+    {
+      "id": 104,
+      "home_team_red_cards": "0",
+      "away_team_red_cards": "1",
+      "home_team_yellow_cards": "3",
+      "away_team_yellow_cards": "4"
+    },
+    {
+      "id": 105,
+      "home_team_red_cards": "0",
+      "away_team_red_cards": "0",
+      "home_team_yellow_cards": "2",
+      "away_team_yellow_cards": "3"
+    },
+    {
+      "id": 106,
+      "home_team_red_cards": "0",
+      "away_team_red_cards": "0",
+      "home_team_yellow_cards": "2",
+      "away_team_yellow_cards": "4"
+    },
+    {
+      "id": 107,
+      "home_team_red_cards": "0",
+      "away_team_red_cards": "0",
+      "home_team_yellow_cards": "4",
+      "away_team_yellow_cards": "4"
+    }
+  ],
+  "highlights": [
+    {
+      "id": 101,
       "events": [
         {
           "type": "yellow_card",
@@ -101,10 +148,6 @@
     },
     {
       "id": 102,
-      "home_team_red_cards": "0",
-      "away_team_red_cards": "0",
-      "home_team_yellow_cards": "2",
-      "away_team_yellow_cards": "3",
       "events": [
         {
           "type": "yellow_card",
@@ -145,10 +188,6 @@
     },
     {
       "id": 103,
-      "home_team_red_cards": "0",
-      "away_team_red_cards": "0",
-      "home_team_yellow_cards": "8",
-      "away_team_yellow_cards": "4",
       "events": [
         {
           "type": "yellow_card",
@@ -189,10 +228,6 @@
     },
     {
       "id": 104,
-      "home_team_red_cards": "0",
-      "away_team_red_cards": "1",
-      "home_team_yellow_cards": "3",
-      "away_team_yellow_cards": "4",
       "events": [
         {
           "type": "yellow_card",
@@ -233,10 +268,6 @@
     },
     {
       "id": 105,
-      "home_team_red_cards": "0",
-      "away_team_red_cards": "0",
-      "home_team_yellow_cards": "2",
-      "away_team_yellow_cards": "3",
       "events": [
         {
           "type": "yellow_card",
@@ -277,10 +308,6 @@
     },
     {
       "id": 106,
-      "home_team_red_cards": "0",
-      "away_team_red_cards": "0",
-      "home_team_yellow_cards": "2",
-      "away_team_yellow_cards": "4",
       "events": [
         {
           "type": "yellow_card",
@@ -321,10 +348,6 @@
     },
     {
       "id": 107,
-      "home_team_red_cards": "0",
-      "away_team_red_cards": "0",
-      "home_team_yellow_cards": "4",
-      "away_team_yellow_cards": "4",
       "events": [
         {
           "type": "yellow_card",
